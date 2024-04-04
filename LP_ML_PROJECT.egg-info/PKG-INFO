@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: LP_ML_PROJECT
+Version: 0.0.1
+Summary: An End-to-end ML Pipeline about Diamond price prediction
+Author: Tinu kumar
+Author-email: tinu01edu@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: Flask
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
