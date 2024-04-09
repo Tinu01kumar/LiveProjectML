@@ -1,11 +1,9 @@
-pandas
-numpy
-Flask
-scikit-learn
+pandas 
+numpy 
 seaborn
-typing
-
+flask 
+typing 
+scikit-learn
+pickles
+flask
 -e .
-
-
-
